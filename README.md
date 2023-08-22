@@ -35,7 +35,7 @@ Java is a high-level, class-based, object-oriented programming language that is 
 - Dynamic Loading and Extensibility
 
 
-  ## Important Topics
+  # Important Topics
 
 - [Object Oriented Paradigms](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/) `GFG`
 - [Constructors in Java](https://www.geeksforgeeks.org/constructors-in-java/) `GFG`
