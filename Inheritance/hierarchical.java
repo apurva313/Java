@@ -4,19 +4,19 @@ class A {
     }
 }
 
-class B extends A {
+class B extends Prog1 {
     public void print_B() {
         System.out.println("Class B");
     }
 }
 
-class C extends A {
+class C extends Prog1 {
     public void print_C() {
         System.out.println("Class C");
     }
 }
 
-class D extends A {
+class D extends Prog1 {
     public void print_D() {
         System.out.println("Class D");
     }
