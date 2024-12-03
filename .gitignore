@@ -2,3 +2,6 @@
 *tempCodeRunnerFile.java
 bin/
 out/
+*.jar
+*.war
+.idea/
