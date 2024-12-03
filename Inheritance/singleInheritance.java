@@ -8,6 +8,9 @@ class B extends A {
     void meth2() {
         System.out.println("I'm Child.");
     }
+    void meth1() {
+        System.out.println("I'm Overriden.");
+    }
 }
 
 public class singleInheritance {
@@ -17,3 +20,7 @@ public class singleInheritance {
         obj.meth2();
     }
 }
+
+//Output:
+//I'm Overriden.
+//I'm Child.
